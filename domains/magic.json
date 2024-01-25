@@ -1,11 +1,9 @@
 {
-    "description": "Website for skyallaround",
-    "repo": "https://github.com/skyallaround/skyallaround.github.io",
     "owner": {
-        "username": "skyallaround",
+        "username": "levisurely",
         "email": "jr1264464@gmail.com"
     },
     "record": {
-        "CNAME": "skyallaround.github.io"
+        "CNAME": "basicscript.glitch.me"
     }
 }
