@@ -1,11 +1,11 @@
 {
-    "description": "Website for skyallaround",
-    "repo": "https://github.com/skyallaround/skyallaround.github.io",
+    "description": "Website for levisurely",
+    "repo": "https://github.com/skyallaround/levisurely.github.io",
     "owner": {
-        "username": "skyallaround",
+        "username": "levisurely",
         "email": "jr1264464@gmail.com"
     },
     "record": {
-        "CNAME": "skyallaround.github.io"
+        "CNAME": "levisurely.github.io"
     }
 }
